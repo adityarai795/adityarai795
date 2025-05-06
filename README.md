@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aditya Rai</h1>
+<h1 align="center">Hi 👋, I'm Aditya </h1>
 <h3 align="center">
-  A passionate Full-Stack Developer currently pursuing my B.Tech in Computer Science.
+  👋 Hi, I'm Aditya Rai, a passionate Full-Stack Developer currently pursuing my B.Tech in Computer Science.
   My GitHub is a showcase of my journey in web development, featuring projects like
   <strong>'Easy Estate Finder'</strong> and <strong>'TravelNest Solutions'</strong>.
   I specialize in building scalable applications using React, Node.js, Express, and MongoDB.
